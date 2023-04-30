@@ -6,7 +6,6 @@
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/souunisuam.com.br/carlossites)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosfigueiredo@souunisuam.com.br)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5521970018427)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosfigueiredo75)
 
 ![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=merko)
