@@ -4,11 +4,11 @@
 
 
 
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/souunisuam.com.br/carlossites)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosfigueiredo@souunisuam.com.br)
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue)](https://sites.google.com/souunisuam.com.br/carlossites)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosfigueiredo@souunisuam.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosfigueiredo75)
 
-![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=merko)
+![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=dark)
 
 Tecnologias que estou utilizando em meus estudos
 
@@ -21,6 +21,7 @@ Tecnologias que estou utilizando em meus estudos
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&hide_progress=true)](https://github.com/carlosrobertofigueiredo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Apaixonado por tecnologias e a possibilidade da criação de programas para solucionar as dores das pessoas.<br/>
