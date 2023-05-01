@@ -24,4 +24,4 @@ Tecnologias que estou utilizando em meus estudos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Apaixonado por desenvolvimento de software, paixão antiga do início da minha fase adulta, mas a vida me levou por outros caminhos. Agora retomando os conhecimentos adormecidoa!<br/>
+Apaixonado por desenvolvimento de software, paixão antiga do início da minha fase adulta, mas a vida me levou por outros caminhos. Agora voltando a busca de novos conhecimentos!<br/>
