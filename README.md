@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosfigueiredo@souunisuam.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosfigueiredo75)
 
-![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=dark)
+![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=great-gatsby)
 
 Tecnologias que estou utilizando em meus estudos
 
@@ -21,7 +21,7 @@ Tecnologias que estou utilizando em meus estudos
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 
 Apaixonado por desenvolvimento de software, paixão antiga do início da minha fase adulta, mas a vida me levou por outros caminhos. Agora voltando a busca de novos conhecimentos!<br/>
