@@ -21,7 +21,7 @@ Tecnologias que estou utilizando em meus estudos
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 
 Apaixonado por desenvolvimento de software, paixão antiga do início da minha fase adulta, mas a vida me levou por outros caminhos. Agora voltando a busca de novos conhecimentos!<br/>
