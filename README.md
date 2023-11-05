@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosfigueiredo@souunisuam.com.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosfigueiredo75)
-(<a href="https://www.youtube.com/channel/UCkN6I-gfJlL5lUj9shkyxPQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>](https://www.youtube.com/@Cfigueiredo75)
+<a href="https://www.youtube.com/@Cfigueiredo75" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>](https://www.youtube.com/@Cfigueiredo75)
 ![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=great-gatsby)
 
 Tecnologias que estou utilizando em meus estudos
