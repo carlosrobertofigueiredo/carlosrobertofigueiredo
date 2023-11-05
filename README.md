@@ -10,10 +10,11 @@
 <a href="https://api.whatsapp.com/send?phone=5521970018427&text=Olá Carlos!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.facebook.com/carlosroberto.figueiredoferreira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "mailto:crff-eletronica@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+#### Meu status no GitHub:
 ![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=great-gatsby)
 
 
-Tecnologias que estou utilizando em meus estudos
+###Tecnologias que estou utilizando em meus estudos
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=dark">
