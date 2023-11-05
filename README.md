@@ -14,7 +14,7 @@
 ![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrobertofigueiredo&show_icons=true&theme=great-gatsby)
 
 
-###Tecnologias que estou utilizando em meus estudos
+### Tecnologias que estou utilizando em meus estudos
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=dark">
