@@ -28,4 +28,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrobertofigueiredo&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 
-Apaixonado por desenvolvimento de software, paixão antiga do início da minha fase adulta, mas a vida me levou por outros caminhos. Agora voltando a busca de novos conhecimentos!<br/>
+<p>"Em 1997, minha jornada no desenvolvimento de software começou. Matriculei-me no curso de programação na UERJ, a renomada Universidade Estadual do Rio de Janeiro. No primeiro dia de aula, meu coração se encheu de empolgação diante do vasto horizonte de possibilidades.
+
+Conforme o curso avançava, minha paixão pela programação crescia. Dediquei-me de corpo e alma, colhendo resultados surpreendentes. Ao final, fiquei em segundo lugar na pontuação geral, uma conquista inesperada.
+
+Uma oferta incrível surgiu: um estágio para os dois melhores alunos. No entanto, recusei essa oportunidade brilhante. Já trabalhava como CLT, e minha família dependia de minha renda.
+
+Apesar disso, nunca perdi a chama dessa paixão. Durante anos, imaginei minha jornada como 'programador'. O conhecimento tinha sido plantado e permanecia vivo.
+
+Há dois anos, meu desejo de aprendizado despertou. Em 2022, retomei os estudos e matriculei-me em cursos de desenvolvimento e Qualidade de Software para alimentar essa paixão.
+
+Agora, estou vivendo o sonho que nasceu em 1997. A área de tecnologia é mais que uma profissão; é minha paixão. Cada linha de código é uma nota em minha sinfonia, e cada desafio é uma oportunidade de crescimento. Estou determinado a seguir esse caminho com entusiasmo, ansioso para ver aonde essa paixão me levará."</p><br/>
